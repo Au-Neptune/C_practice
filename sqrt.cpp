@@ -110,7 +110,7 @@ int main() {
 	{
 		for (int i = 0; i < str.length(); i++)
 			num.push_back(str[i]);
-		ans = Calculate(num);
+		ans = sqrt(num);
 		cout << endl;
 	}
 }
