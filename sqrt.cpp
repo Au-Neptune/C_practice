@@ -57,7 +57,7 @@ vector<char> sqrt(vector<char> input)
 		buffer2 *= 100;
 	}
 
-	cout << '.';
+	//cout << '.';
 	ans.push_back('.');
 
 	int pos = 0;
